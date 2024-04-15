@@ -1,0 +1,19 @@
+.delete {
+  margin: 10px;
+}
+.update {
+  margin: 10px;
+}
+
+.search-box {
+  margin: 10px;
+}
+.body {
+  border: 1px solid black;
+  width: 500px;
+  margin: 20px;
+}
+
+.change-btn {
+  margin: 5px;
+}
